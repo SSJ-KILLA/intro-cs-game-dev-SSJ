@@ -1,0 +1,12 @@
+Game Idea: Top-Down Astroid Dodger
+Basically galacta
+
+
+Player Actions
+-Move Up
+-Move Down
+-Move Left
+-Move Right
+-Dodge
+-Survive
+-Restart

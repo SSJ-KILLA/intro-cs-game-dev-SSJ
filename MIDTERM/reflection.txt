@@ -1,0 +1,21 @@
+What was the hardest part of this midterm and why?
+
+The hardest part of this midterm was building the combat system in a way that always ended cleanly without crashing or getting stuck in a loop, especially when handling invalid input from the player.
+Making sure HP values updated correctly across multiple turns and rooms required careful testing and logic checks.
+Another challenge was organizing the code across multiple files and making sure everything imported and worked together properly.
+
+
+What is one thing you would refactor if you had another day?
+
+If I had another day, I would refactor the combat system to reduce repeated logic and make enemy behavior more flexible, possibly by creating a shared function for damage calculation.
+This would make the code easier to read and expand later.
+
+What concept from Weeks 1–5 did you improve the most?
+
+The concept I improved the most from Weeks 1–5 was program structure and control flow, particularly using loops, dictionaries, and functions together to manage game state.
+I also became more confident using try/except to handle invalid input safely without breaking the program.
+
+
+Write 6–10 sentences total.
+
+---

@@ -1,0 +1,6 @@
+I choose Tetris.
+
+In Tetris, players rotate and position falling blocks to form full horizontal rows. When a row is completed, it disappears, awarding points and freeing space for continued play, while the blocks fall faster over time.
+
+When the objective is to last as long as possible by clearing lines efficiently. The game ends when the stacked blocks reach the top of the screen, preventing new pieces from entering.
+The gameplay loop remains compelling by continously challenging players to make quick decisions while rewarding careful planning and strong spatialawareness.
